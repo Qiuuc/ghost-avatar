@@ -49,11 +49,8 @@ ghost-avatar/
 ├── README.md                # GitHub 展示说明
 ├── LICENSE                  # MIT
 ├── requirements.txt
-├── scripts/
-│   ├── ghost_effect.py      # 简单版（整图偏移）
-│   ├── ghost_effect_pro.py  # 进阶版（抠主体+偏移）
-│   └── batch_ghost.py       # 批量处理
-└── examples/
-    ├── before.jpg
-    └── after.jpg
+└── scripts/
+    ├── ghost_effect.py      # 简单版（整图偏移）
+    ├── ghost_effect_pro.py  # 进阶版（抠主体+偏移）
+    └── batch_ghost.py       # 批量处理
 ```
