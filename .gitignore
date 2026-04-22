@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# rembg model cache
+.u2net/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 测试输出
+ghost_output/
+*_ghost.png
+*_ghost.jpg
+*_ghost_pro.png
+*_ghost_pro.jpg
